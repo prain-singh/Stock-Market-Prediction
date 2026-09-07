@@ -141,26 +141,6 @@ An **Actual vs Predicted Price** visualization is used to understand how well th
 
 ---
 
-## 📁 Project Structure
-
-```text
-Stock-Market-Prediction/
-│
-├── 📓 Stock_Market_Prediction.ipynb
-├── 📂 dataset/
-│   └── stock_data.csv
-│
-├── 📂 images/
-│   ├── stock_price.png
-│   ├── correlation_heatmap.png
-│   └── actual_vs_predicted.png
-│
-├── 📄 README.md
-└── 📄 requirements.txt
-```
-
----
-
 ## ▶️ How to Run
 
 ### 1. Clone the repository
